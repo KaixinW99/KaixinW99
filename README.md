@@ -8,3 +8,12 @@
 KaixinW99/KaixinW99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 🧮 Project Euler Progress
+
+<!-- Euler banner (auto-refresh via cache-busting query set by the Action) -->
+![Project Euler](https://projecteuler.net/profile/)
+
+<!-- This line will be kept up-to-date by the Action -->
+**Problems solved:** _fetching…_
+
