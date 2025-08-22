@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🧮 Project Euler Progress
-![Project Euler](https://projecteuler.net/profile/YOUR_EULER_USERNAME.png?cache=INIT)
+![Project Euler](https://projecteuler.net/profile/KaixinWang.png?cache=INIT)
 
 **Problems solved:** _fetching…_  •  **Level:** _fetching…_
 
