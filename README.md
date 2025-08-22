@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🧮 Project Euler Progress
-<!-- This line will be kept up-to-date by the Action -->
-**Problems solved:** _fetching…_
+![Project Euler](https://projecteuler.net/profile/YOUR_EULER_USERNAME.png?cache=INIT)
+
+**Problems solved:** _fetching…_  •  **Level:** _fetching…_
 
